@@ -3,7 +3,7 @@
 
 
 //Generacion de Rango
-var rango = 1...100
+var rango = 0...100
 
 //Iteracion del rango
 for i in rango{
